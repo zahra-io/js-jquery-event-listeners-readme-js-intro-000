@@ -9,7 +9,7 @@ function frameIt() {
   $('.tasty').on('load', function(){
     $(this).css("border-color", "red");
   })
-}
+};
 
 
 $(document).ready(function(){
